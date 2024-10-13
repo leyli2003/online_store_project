@@ -1,0 +1,45 @@
+#opt{
+    display: flex;
+    margin: 0 50px 0;
+    height: 90px;
+}
+#consumer,#market{
+    color: white;
+    height: 50px;
+    margin-top: 0px;
+    line-height: 50px;
+    font-weight: bold;
+}
+#consumer {
+    border-radius: 20px 0 0 20px;
+}
+#market{
+    border-radius: 0 20px 20px 0;
+}
+#consumer:hover, #market:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.normal{
+    background-color: #EEC982;
+}
+.chosen {
+    background-color: #DC9D23;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#city{
+  display: flex;
+  gap: 40px;
+  margin: 0 50px;
+  width: 467px;
+}
+#p{
+    margin: 20px 160px 0px;
+    height: fit-content;
+}
+#opt a {
+    text-decoration: none;
+}
+.box{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

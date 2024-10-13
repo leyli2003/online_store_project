@@ -1,0 +1,8 @@
+1. Proper design for "Failed to log in" --saida
+4. Clean the code and structure, make proper file system. --sherzod // nar 
+10. Resend mail timer. -- sherzod // nar
+18. Hashed password -- sherzod
+19. offer sticky-form -- everyone 
+20. Applications must be protected against sql injection, XSS, and CSRF attacks -- irem 
+21. Make proper design -- everyone <------------------------------------------------------------------------- IMPORTANT
+27. Add img for the product properly
